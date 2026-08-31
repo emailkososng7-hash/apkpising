@@ -13,7 +13,7 @@ jobs:
 
     - name: Extract ZIP
       run: |
-        unzip basephising.zip
+        unzip Basephising.zip
         chmod +x gradlew
 
     - name: Set up JDK 17
